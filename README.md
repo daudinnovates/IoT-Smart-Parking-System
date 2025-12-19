@@ -37,8 +37,8 @@ This project is an IoT-based Smart Parking System developed using ESP32. It auto
 - Smart city parking systems
 
 ## 👨‍💻 Team & Leadership
-- **Team Leader:** Daud  
-- Project developed as a team effort under the leadership of Daud.
+- **Team Leader:** Malik Daud Akhtar  
+- Project developed as a team effort under the leadership of Malik Daud Akhtar.
 
 ## 📷 Project Demo
 Screenshots and circuit diagrams are included in the repository.
